@@ -1,8 +1,8 @@
 ## 1- Criação dos arquivios
 
- - html;
- - css; e
- - javascript.
+ - Html;
+ - Css; e
+ - JavaScript.
 
 ## 2- Dentro no HTML
 
@@ -12,17 +12,21 @@
 ## 2- Dentro do JavaScript
 
  - Requisição no recurso que traz a informações de todos personagens;
- - Guardando as informações do retorno da api
- - Guardando as informações do retorno da api
- - dentro de todas as informações, peguei somente as informaçoes dos personagens
- - pegando a tag div dos personagens do html
- - dentro dos personagens irei selecionar 4 aleatorios
- - pego os personagens de forma aleatória
- - crio a tag div de personagem
- - crio a tag de img do personagem
- - crio a tag de texto para o personagem
- - guardo o nome do personagem na div do personagem
- - guardo a imagem do personagem na div do personagem
- - devolvo para html a div com as imagens e nomes dos personagens
+ - Guardando as informações do retorno da api;
+ - Guardando as informações do retorno da api;
+ - Dentro de todas as informações, peguei somente as informaçoes dos personagens;
+ - Pegando a tag div dos personagens do html;
+ - Dentro dos personagens irei selecionar 4 aleatorios;
+ - Pego os personagens de forma aleatória;
+ - Crio a tag div de personagem;
+ - Crio a tag de img do personagem;
+ - Crio a tag de texto para o personagem;
+ - Guardo o nome do personagem na div do personagem;
+ - Guardo a imagem do personagem na div do personagem; e
+ - Devolvo para html a div com as imagens e nomes dos personagens.
 
 ## 3- Dentro do CSS
+ - Criação de estilo para corpo da página;
+ - Criação do estilo da div de personagens;
+ - Criação do estilo de cada imagem; e
+ - Criação do estilo de cada nome.
