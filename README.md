@@ -7,16 +7,16 @@
 ## 2- Dentro no HTML
 
  - Construção do cabeçalho; e
- - Construção do Bady.
+ -  Construção do Body
 
 ## 2- Dentro do JavaScript
 
  - Requisição no recurso que traz a informações de todos personagens;
  - Guardando as informações do retorno da api;
  - Guardando as informações do retorno da api;
- - Dentro de todas as informações, peguei somente as informaçoes dos personagens;
+ - Dentro de todas as informações, peguei somente as informações dos personagens;
  - Pegando a tag div dos personagens do html;
- - Dentro dos personagens irei selecionar 4 aleatorios;
+ - Dentro dos personagens irei selecionar 4 aleatórios;
  - Pego os personagens de forma aleatória;
  - Crio a tag div de personagem;
  - Crio a tag de img do personagem;
