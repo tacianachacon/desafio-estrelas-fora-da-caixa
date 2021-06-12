@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(51, 51, 51);
+}
+
+#personagens{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50%;
+}
+#agradecimentos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 70px;
+    height: 50%;
+    background-color: aliceblue;
+}
+
+.nome_personagem{
+    margin: 5%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.imagem_personagem{
+    height: 300px;
+    width: 300px;
+    margin-left: 5px;
+    margin-right: 5px;
+} 
