@@ -1,4 +1,4 @@
-## 1- Criação dos arquvios
+## 1- Criação dos arquivios
 
  - html;
  - css; e
