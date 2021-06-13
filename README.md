@@ -4,7 +4,7 @@
  - Css; e
  - JavaScript.
 
-## 2- Dentro no HTML
+## 2- Dentro do HTML
 
  - Construção do cabeçalho; e
  -  Construção do Body
